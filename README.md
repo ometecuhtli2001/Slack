@@ -9,6 +9,7 @@ For various robots and other processes, I wanted a simple way to receive alerts 
 ## Project items
 This project is intended to contain multiple methods of posting an alert to Slack.  The following methods are included so far:
 * bash
+* PowerShell - tested in PS 2.0 and 5.1
 
 ## Why bother?
 So I (and now you!) can get alerts on your phone when something goes wrong or when one of your processes just wants to talk:
